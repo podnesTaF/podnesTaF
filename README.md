@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello, I'm Oleksii Pidnebesnyi
+> I'm an 18-year-old frontend developer, passionate about building modern and user-friendly web applications. I specialize in HTML, CSS, JavaScript, React, and Next.js for frontend development, and Nest.js with PostgreSQL for backend.
 
-<!--
-**podnesTaF/podnesTaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Nest.js
+- PostgreSQL
+### My Hobbies
+When I'm not coding, you can find me:
+>- Solving algorithms problems
+>- Going for a run to clear my mind
+>- Reading philosophy books to expand my thinking
+### Contact Me
+> If you want to connect, feel free to reach out to me via email or social media.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: apodnes@gmail.com
+- GitHub: [@podnesTaF](https://github.com/podnesTaF)
+- LinkedIn: [Oleksii Pidnebesnyi](https://www.linkedin.com/in/oleksii-pidnebesnyi-5a50a625b/)
