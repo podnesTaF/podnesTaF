@@ -1,5 +1,5 @@
 ## Hello, I'm Oleksii Pidnebesnyi
-> I'm an 18-year-old frontend developer, passionate about building modern and user-friendly web applications. I specialize in JS, TS, React, and Next.js for frontend development, and Nest.js with PostgreSQL for backend.
+> I'm an 18-year-old frontend developer, passionate about building modern and user-friendly web applications. React fan.
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
