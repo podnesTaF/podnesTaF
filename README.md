@@ -10,6 +10,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+---
+![gitbub stats](https://github-readme-stats.vercel.app/api?username=podnesTaF&show_icons=true&theme=transparent)
 
 ### My Hobbies
 When I'm not coding, you can find me:
