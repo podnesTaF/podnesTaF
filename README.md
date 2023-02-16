@@ -1,5 +1,5 @@
 ## Hello, I'm Oleksii Pidnebesnyi
-> I'm an 18-year-old frontend developer, passionate about building modern and user-friendly web applications. React fan.
+> I'm an 18-year-old frontend developer, passionate about building modern and user-friendly web applications. React fan and ACS student
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
@@ -16,7 +16,7 @@
 ### My Hobbies
 When I'm not coding, you can find me:
 >- Solving algorithms problems
->- Going for a run to clear my mind
+>- Going to the gym to clear my mind
 >- Reading philosophy books to expand my thinking
 ### Contact Me
 > If you want to connect, feel free to reach out to me via email or social media.
