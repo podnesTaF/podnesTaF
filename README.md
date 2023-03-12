@@ -15,7 +15,7 @@
 ## Projects
 - 💸🏃 [AceBattleBet](https://github.com/podnesTaF/AceBattleBet) - betting web app for battle mile: team running competitions. In beta version, but already deployed with part of functinality. To make your bet you should authorize)
 - 🔧 [Multi-jsbook](https://github.com/podnesTaF/multi-jsbook) - A browser coding environment, launching from a command line, published on npm. The environment have some utils functions, which can facilitate the development process. The code writing in the browser is saved on your computer.
-- 🏃 [Running Blog](https://github.com/podnesTaF/RunningBlog) - Running blog, where you can share your sport activities, see others activities, follow, comment and like them. Also, there is a statistic of your trainings with transform into points which can make you the most active person in the blog.
+- 🧠 [Js bomp test](https://github.com/podnesTaF/RunningBlog) - Interactive test with advanced questions bounded with js (react, event loop etc.). Different type of questions, opportunity to add another modules and analize your results. Test your knowlenge of js!
 - ✖️ And others in my github profile
 ---
 ![gitbub stats](https://github-readme-stats.vercel.app/api?username=podnesTaF&show_icons=true&theme=transparent)
