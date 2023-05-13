@@ -6,11 +6,13 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![React](https://img.shields.io/badge/-React-blueviolet)
 ![Next.js](https://img.shields.io/badge/-Next.js-black)
-![Redux](https://img.shields.io/badge/-Redux-blue)
+![ReduxToolkit](https://img.shields.io/badge/-Redux-blue)
+![RTK query](https://img.shields.io/badge/-Redux-blue)
+![Sockets](https://img.shields.io/badge/-Redux-yellow)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-red)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+![SQL](https://img.shields.io/badge/-PostgreSQL-blue)
 
 ## Projects
 - 💬 [AHMO chat](https://github.com/podnesTaF/ahmo-frontend-class19) - An application with extended chat and gaming functionality. Play interesting games within a chat with your friends realtime, create groups or write to a person directly.
