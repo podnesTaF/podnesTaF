@@ -13,9 +13,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 
 ## Projects
-- 💸🏃 [AceBattleBet](https://github.com/podnesTaF/AceBattleBet) - betting web app for battle mile: team running competitions. In beta version, but already deployed with part of functinality. To make your bet you should authorize)
+- 💬 [AHMO chat](https://github.com/podnesTaF/ahmo-frontend-class19) - An application with extended chat and gaming functionality. Play interesting games within a chat with your friends realtime, create groups or write to a person directly.
+- 💸🏃 [AceBattleBet](https://github.com/podnesTaF/AceBattleBet) - betting web app for battle mile: team running competitions. In beta version, but already deployed with part of functinality. Follow teams and make different types of bets on events. 
 - 🔧 [Multi-jsbook](https://github.com/podnesTaF/multi-jsbook) - A browser coding environment, launching from a command line, published on npm. The environment have some utils functions, which can facilitate the development process. The code writing in the browser is saved on your computer.
-- 🧠 [Js bomp test](https://github.com/podnesTaF/RunningBlog) - Interactive test with advanced questions bounded with js (react, event loop etc.). Different type of questions, opportunity to add another modules and analize your results. Test your knowlenge of js!
 - ✖️ And others in my github profile
 ---
 ![gitbub stats](https://github-readme-stats.vercel.app/api?username=podnesTaF&show_icons=true&theme=transparent)
