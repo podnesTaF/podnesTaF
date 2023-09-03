@@ -6,6 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![React](https://img.shields.io/badge/-React-blueviolet)
 ![Next.js](https://img.shields.io/badge/-Next.js-black)
+![Remix.js](https://img.shields.io/badge/-Next.js-black)
 ![ReduxToolkit](https://img.shields.io/badge/-ReduxToolkit-blue)
 ![RTK query](https://img.shields.io/badge/-RTKquery-blue)
 ![Sockets](https://img.shields.io/badge/-Sockets-yellow)
