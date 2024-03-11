@@ -23,7 +23,7 @@
 - 💸🏃 [AceBattleBet](https://github.com/podnesTaF/AceBattleBet) - betting web app for battle mile: team running competitions. In beta version, but already deployed with part of functinality. Follow teams and make different types of bets on events. 
 - ✖️ And others in my github profile
 ---
-![gitbub stats](https://github-readme-stats.vercel.app/api?username=podnesTaF&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=podnesTaF)](https://git.io/streak-stats)
 
 ### My Hobbies
 When I'm not coding, you can find me:
